@@ -5,9 +5,9 @@ This PHP script blocks spam with a honeypot strategy using a hidden field that m
 In addition, there is a simple captcha to block a good portion of bots that managed to evade the honeypot.
 
 The script contains 3 blacklists
-- names blacklist
-- emails blacklist
-- words blacklist
+- name blacklist
+- email blacklist
+- text blacklist
 
 It is possible to tweak these settings to block even the most fierce spam.
 
