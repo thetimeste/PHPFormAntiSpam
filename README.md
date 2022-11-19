@@ -12,3 +12,5 @@ The script contains 3 blacklists
 It is possible to tweak these settings to block even the most fierce spam.
 
 It is provided an example of HTML code for the form part.
+
+www.iannellodev.it
